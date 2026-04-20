@@ -22,7 +22,7 @@ I like playing tower defense game and point-and-click escape puzzeling game. Lik
 
 I grew up in a steel factory in Handan, Hebei. I speak Jin Chinese. 
 
-If you are interested in me and willing to be my friend, here is some more background story of me: click (/about/story/)
+If you are interested in me and willing to be my friend, here is some more background story of me: click [/about/story/]
 
 ### Contact me
 
