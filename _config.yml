@@ -85,3 +85,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+header_pages:
+ - index.html
+ - about.md
+ - writing.md
